@@ -1,6 +1,6 @@
 <?php
 
-namespace Framework\System\Routing;
+namespace Bazalt\Routing;
 
 interface Sluggable
 {
