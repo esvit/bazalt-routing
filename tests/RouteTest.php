@@ -1,8 +1,10 @@
 <?php
 
-use Framework\System\Routing\Route;
+namespace tests;
 
-class Route_Test extends Tests\BaseCase
+use Bazalt\Routing\Route;
+
+class Route_Test extends \tests\BaseCase
 {
     protected function setUp()
     {
