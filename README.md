@@ -1,6 +1,6 @@
-bazalt-view
-===========
+bazalt-routing
+==============
 
-[![Build Status](https://travis-ci.org/esvit/bazalt-view.png)](https://travis-ci.org/esvit/bazalt-view) [![Coverage Status](https://coveralls.io/repos/esvit/bazalt-view/badge.png)](https://coveralls.io/r/esvit/bazalt-view)
+[![Build Status](https://travis-ci.org/esvit/bazalt-routing.png)](https://travis-ci.org/esvit/bazalt-routing) [![Coverage Status](https://coveralls.io/repos/esvit/bazalt-routing/badge.png)](https://coveralls.io/r/esvit/bazalt-routing)
 
-Simple View for MVC
+Routing for Bazalt CMF
